@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>ai.devrev.demo.stage</string>
+	<key>CFBundleName</key>
+	<string>Stage</string>
+	<key>CFBundleDisplayName</key>
+	<string>Stage</string>
+	<key>CFBundleExecutable</key>
+	<string>Stage</string>
+	<key>CFBundleIconFile</key>
+	<string>Stage</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0</string>
+	<key>CFBundleVersion</key>
+	<string>2</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>26.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Computer sessions can use your camera for calls.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Computer sessions can use your microphone for calls and voice input.</string>
+</dict>
+</plist>
